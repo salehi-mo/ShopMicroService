@@ -1,0 +1,17 @@
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Infrastructure.deps.json
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Infrastructure.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\ref\PaymentService.Infrastructure.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Infrastructure.pdb
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Application.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Domain.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Application.pdb
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\bin\Debug\net5.0\PaymentService.Domain.pdb
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.csproj.AssemblyReference.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.AssemblyInfoInputs.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.AssemblyInfo.cs
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.csproj.CoreCompileInputs.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.csproj.CopyComplete
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\ref\PaymentService.Infrastructure.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Infrastructure\obj\Debug\net5.0\PaymentService.Infrastructure.pdb

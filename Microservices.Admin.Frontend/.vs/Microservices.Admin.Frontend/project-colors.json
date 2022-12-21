@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "73db8fb8-6b2f-4ed2-be8b-b0681370560d": {
+      "ProjectGuid": "73db8fb8-6b2f-4ed2-be8b-b0681370560d",
+      "DisplayName": "Microservices.Admin.Frontend",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

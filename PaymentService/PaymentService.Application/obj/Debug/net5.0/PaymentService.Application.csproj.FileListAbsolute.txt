@@ -1,0 +1,15 @@
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\bin\Debug\net5.0\PaymentService.Application.deps.json
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\bin\Debug\net5.0\PaymentService.Application.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\bin\Debug\net5.0\ref\PaymentService.Application.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\bin\Debug\net5.0\PaymentService.Application.pdb
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\bin\Debug\net5.0\PaymentService.Domain.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\bin\Debug\net5.0\PaymentService.Domain.pdb
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\obj\Debug\net5.0\PaymentService.Application.csproj.AssemblyReference.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\obj\Debug\net5.0\PaymentService.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\obj\Debug\net5.0\PaymentService.Application.AssemblyInfoInputs.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\obj\Debug\net5.0\PaymentService.Application.AssemblyInfo.cs
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\obj\Debug\net5.0\PaymentService.Application.csproj.CoreCompileInputs.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\obj\Debug\net5.0\PaymentService.Application.csproj.CopyComplete
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\obj\Debug\net5.0\PaymentService.Application.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\obj\Debug\net5.0\ref\PaymentService.Application.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Application\obj\Debug\net5.0\PaymentService.Application.pdb

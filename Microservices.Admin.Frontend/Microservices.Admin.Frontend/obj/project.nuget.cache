@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RaKPmatGOSP5e9XWfA4bZc0kree4EGu6xGx5ecNDkYkEnszwd+bVaGhseLY6LZCphQ2NFvhEuR3QR7NlbKUTBg==",
+  "success": true,
+  "projectFilePath": "G:\\DotNetCore\\MicroServices\\Samples\\Shop_MicroServices\\Microservices.Admin.Frontend\\Microservices.Admin.Frontend\\Microservices.Admin.Frontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

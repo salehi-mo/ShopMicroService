@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aebd6c88-4be1-42d8-b83d-3aa63bef55ca": {
+      "ProjectGuid": "aebd6c88-4be1-42d8-b83d-3aa63bef55ca",
+      "DisplayName": "BasketService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

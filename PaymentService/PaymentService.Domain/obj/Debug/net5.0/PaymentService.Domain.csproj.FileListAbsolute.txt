@@ -1,0 +1,12 @@
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Domain\bin\Debug\net5.0\PaymentService.Domain.deps.json
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Domain\bin\Debug\net5.0\PaymentService.Domain.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Domain\bin\Debug\net5.0\ref\PaymentService.Domain.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Domain\bin\Debug\net5.0\PaymentService.Domain.pdb
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.csproj.AssemblyReference.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.AssemblyInfoInputs.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.AssemblyInfo.cs
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.csproj.CoreCompileInputs.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Domain\obj\Debug\net5.0\ref\PaymentService.Domain.dll
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\PaymentService\PaymentService.Domain\obj\Debug\net5.0\PaymentService.Domain.pdb

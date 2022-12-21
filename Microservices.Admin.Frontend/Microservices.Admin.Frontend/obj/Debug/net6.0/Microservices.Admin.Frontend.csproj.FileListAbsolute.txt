@@ -1,0 +1,8 @@
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\Microservices.Admin.Frontend\Microservices.Admin.Frontend\obj\Debug\net6.0\Microservices.Admin.Frontend.csproj.AssemblyReference.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\Microservices.Admin.Frontend\Microservices.Admin.Frontend\obj\Debug\net6.0\Microservices.Admin.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\Microservices.Admin.Frontend\Microservices.Admin.Frontend\obj\Debug\net6.0\Microservices.Admin.Frontend.AssemblyInfoInputs.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\Microservices.Admin.Frontend\Microservices.Admin.Frontend\obj\Debug\net6.0\Microservices.Admin.Frontend.AssemblyInfo.cs
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\Microservices.Admin.Frontend\Microservices.Admin.Frontend\obj\Debug\net6.0\Microservices.Admin.Frontend.csproj.CoreCompileInputs.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\Microservices.Admin.Frontend\Microservices.Admin.Frontend\obj\Debug\net6.0\Microservices.Admin.Frontend.MvcApplicationPartsAssemblyInfo.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\Microservices.Admin.Frontend\Microservices.Admin.Frontend\obj\Debug\net6.0\Microservices.Admin.Frontend.RazorAssemblyInfo.cache
+G:\DotNetCore\MicroServices\Samples\Shop_MicroServices\Microservices.Admin.Frontend\Microservices.Admin.Frontend\obj\Debug\net6.0\Microservices.Admin.Frontend.RazorAssemblyInfo.cs
